@@ -532,7 +532,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 }
 /**about**/
 .header-banner {
-    background: url("https://www.baccredomatic.com/sites/default/files/banners_web_bac-promociones-novillo-01_0.png")no-repeat 0px 0px 20px 20px;
+    background: url("https://www.baccredomatic.com/sites/default/files/banners_web_bac-promociones-novillo-01_0.png")no-repeat 0px 0px;
     background-size: cover;
     min-height: 140px;
 	text-align: center;
