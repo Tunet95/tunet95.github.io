@@ -306,7 +306,7 @@ a.button:hover {
 .testimonials {
     padding: 4em 0;
 	text-align:center;
-	background: url(../images/banner5.jpg) no-repeat 0px 0px;
+	background-color: black;
     background-size: cover;
 	 -webkit-background-size: cover;
     -moz-background-size: cover;
