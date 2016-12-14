@@ -479,7 +479,7 @@ ul.callbacks_tabs.callbacks1_tabs {
     font-size: 3.5em;
     text-transform: capitalize;
     font-family: 'OpenSans-CondLight';
-    color: #fff;
+    color: #FFFFFF;
 }
 .specials li {
   list-style: none;
@@ -502,14 +502,14 @@ ul.callbacks_tabs.callbacks1_tabs {
   font-size: 1em;
   text-decoration: none;
   line-height: 1.8em;
-  color: #bfefed;
+  color: #FFFFFF;
     list-style: none;
 	padding: 6px 24px;
   background: url(../images/list-arrow.png) no-repeat 0px 10px;
       text-transform: capitalize;
 }
 .specials ul li a:hover {
-  color:#fff;
+  color: #FFFFFF;
 }
 .footer-section{
 	padding:2em 0;
