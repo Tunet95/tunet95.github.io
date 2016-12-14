@@ -473,6 +473,7 @@ ul.callbacks_tabs.callbacks1_tabs {
 .specials-section {
   padding: 4em 0;
   background: #dc0000;
+	color: white;
 }
 .specials-section h3 {
     font-size: 3.5em;
