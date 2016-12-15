@@ -1,11 +1,11 @@
-## License url: https://creativecommons.org/licenses/by/3.0/
+# License url: https://creativecommons.org/licenses/by/3.0/
 
 
 ## Usted es libre de:
 
-Compartir - copiar y redistribuir el material en cualquier medio o formato.
+**Compartir** - *copiar y redistribuir el material en cualquier medio o formato.*
 
-Adaptar - remix, transformar y construir sobre el material.
+**Adaptar** - *remix, transformar y construir sobre el material.*
 
 Para cualquier propósito, incluso comercialmente.
 
