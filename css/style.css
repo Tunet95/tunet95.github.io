@@ -956,6 +956,13 @@ address {
 	outline: none;
 	border: 1px solid #dcdee0;
 }
+.contact-right input[type="email"] {
+	width: 100%;
+	padding: 10px 10px;
+	font-size: 1em;
+	outline: none;
+	border: 1px solid #dcdee0;
+}
 .contact-right textarea {
 	width: 100%;
 	padding: 10px 10px;
